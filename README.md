@@ -3,11 +3,11 @@
 I'm currently working on [noscreations.dev](https://noscreations.dev).
 
 ## 🚀 My Skills
-Languages: TypeScript, HTML, CSS, JavaScript, SQL.
+**Languages:** TypeScript, HTML, CSS, JavaScript, SQL.
 
-Frameworks & Libraries: React, Next.JS, TailwindCSS.
+**Frameworks & Libraries:** React, Next.JS, TailwindCSS.
 
-Tools: Git, GitHub, VSCode.
+**Tools:** Git, GitHub, VSCode.
 
 ## 🔗 Connect with Me
 <a href="mailto:business.nossux@gmail.com?">
