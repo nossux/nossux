@@ -6,7 +6,6 @@
 
 **Tools:** Git, GitHub, VSCode.
 
-## 🔗 Connect with Me
 <a href="mailto:business.nossux@gmail.com?">
   Email
 </a>
