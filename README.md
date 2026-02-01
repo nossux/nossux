@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**Developer from Spain. 17. Building things.**
+Developer from Spain. 17. Building things.
 
 ## 🔗 Check Out My Work
 
