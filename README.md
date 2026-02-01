@@ -11,7 +11,7 @@ Developer from Spain. 17. Building things.
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, Astro, JavaScript
-- **Languages:** C, Python, JavaScript/TypeScript
+- **Languages:** JavaScript/TypeScript, LUA
 - **Tools:** Git, VS Code
 
 ## 📧 Get In Touch
