@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**nossux/nossux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer from Spain. 17. Building things.**
 
-Here are some ideas to get you started:
+## 🔗 Check Out My Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [usetella.us](https://usetella.us) - Encryption platform made for FiveM Code and Asset Developers (In-dev)
+- [studyy.app](https://studyy.app) - Study and learning platform (In-Dev)
+- [aptis.dev](https://aptis.dev) - Development Studio
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, Astro, JavaScript
+- **Languages:** C, Python, JavaScript/TypeScript
+- **Tools:** Git, VS Code
+
+## 📧 Get In Touch
+
+- Email: [contact.nossux@gmail.com](mailto:contact.nossux@gmail.com)
+- Discord: [@nossux](https://discord.com/users/1335244024843472896)
+
+---
+
+*Always learning, always building.* ✨
