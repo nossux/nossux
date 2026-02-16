@@ -4,7 +4,7 @@ Developer from Spain. 17. Building things.
 
 ## 🔗 Check Out My Work
 
-- [usetella.us](https://usetella.us) - Encryption platform made for FiveM Code and Asset Developers (In-dev)
+- [usetella.us](https://licensing.tellastudios.us) - Encryption platform made for FiveM Code and Asset Developers (In-dev)
 - [studyy.app](https://studyy.app) - Study and learning platform (In-Dev)
 - [aptis.dev](https://aptis.dev) - Development Studio
 
