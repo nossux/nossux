@@ -11,8 +11,8 @@ Always learning. Always building.
 
 ## 🌱 Currently Focused On
 Building [Luma](https://www.useluma.eu)
-View portfolio & how to commission @ [https://www.nossux.dev](nossux.dev)
 
 ## 📫 Contact
-Email: contact.nossux@gmail.com  
+Email: [contact.nossux](mailto:contact.nossux@gmail.com)
 Discord: [@nossux](https://discord.com/users/1335244024843472896)
+Portfolio: [nossux.dev](https://www.nossux.dev)
