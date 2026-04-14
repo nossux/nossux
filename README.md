@@ -1,18 +1,17 @@
-# 👋 Hi there.  
+**full-stack dev**
 
-**17 y/o Developer from Spain 🇪🇸**  
-Always learning. Always building.
+17, building real-world products used globally
 
-## 🚀 Tech Stack
+### stack
+js / ts / lua
 
-**Languages:** JavaScript, TypeScript, Lua, HTML, CSS  
-**Frameworks & Libraries:** React, Next.js, Astro, Tailwind CSS, Node.js  
-**Tools:** Git, GitHub, VS Code  
+react / next.js / node
 
-## 🌱 Currently Focused On
-Building [Luma](https://www.useluma.eu)
+tailwind / html / css
 
-## 📫 Contact
-Email: [contact.nossux@gmail.com](mailto:contact.nossux@gmail.com)
-Discord: [@nossux](https://discord.com/users/1335244024843472896)
-Portfolio: [nossux.dev](https://www.nossux.dev)
+### contact
+email: [contact.nossux@gmail.com](mailto:contact.nossux@gmail.com)
+
+discord: [@nossux](https://discord.com/users/1335244024843472896)
+
+portfolio: [nossux.dev](https://www.nossux.dev)
