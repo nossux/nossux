@@ -1,6 +1,6 @@
 ## full-stack dev
 
-17, building real-world products used globally
+18, building real-world products used globally
 
 ## stack
 js / ts / lua
