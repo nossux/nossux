@@ -10,8 +10,7 @@ react / next.js / node
 tailwind / html / css
 
 ## contact
-email: [contact.nossux@gmail.com](mailto:contact.nossux@gmail.com)
 
 discord: [@nossux](https://discord.com/users/1335244024843472896)
 
-portfolio: [nossux.dev](https://www.nossux.dev)
+site: [fivelabs.dev](https://www.fivelabs.dev)
